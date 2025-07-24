@@ -1,4 +1,5 @@
-<h1> Important definitions to read stock related data </h1>
+Important definitions to read stock related data 
+
 Welcome Readers,
 
 Are you curious to understand stock data and what does technical jargons actually mean? Look no further. I have curated list of all technical terminologies used to read stock data
@@ -20,5 +21,15 @@ boardRisk: Risk rating for the company's board
 compensationRisk: Risk rating about executive compensation policies
 
 
-priceHint: Suggested decimal precision for stock price
+priceHint: Suggested decimal precision for stock price. This metric informs how many decimal points to consider for stock price as per trading rules. Is usually set to 2 for s&p500
+
+previousClose: Price at market close yesterday
+open: Stock price when market opened today
+dayLow: Lowest price during the day
+dayHigh: Highest price during the day
+regularMarketPreviousClose: Previous close price in regular market hours
+
+What is difference between previousclose and regularMarketPreviousClose
+previousclose includes after hours trading 9:30 AM – 4:00 PM EST if any
+
 
