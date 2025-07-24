@@ -1,0 +1,24 @@
+<h1> Important definitions to read stock related data </h1>
+Welcome Readers,
+
+Are you curious to understand stock data and what does technical jargons actually mean? Look no further. I have curated list of all technical terminologies used to read stock data
+
+
+Address: Main office address
+City: City where the company is located
+State: State where the company is based
+Zip: ZIP code of the location
+Country: Country where the company is registered
+Phone: Company's phone number
+Website: Official website of the company
+Industry: Type of business activity
+IndustryKey: Industry code or category
+
+
+auditRisk: Risk rating based on financial audit (higher = more risk)
+boardRisk: Risk rating for the company's board
+compensationRisk: Risk rating about executive compensation policies
+
+
+priceHint: Suggested decimal precision for stock price
+
